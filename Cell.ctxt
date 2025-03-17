@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cell
+comment1.params=
+comment1.target=Cell()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=value
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=boolean\ isFixed()
+comment5.params=fixed
+comment5.target=void\ setFixed(boolean)
+numComments=6

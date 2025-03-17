@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ generateSolution()
+comment3.params=
+comment3.target=void\ saveSolution()
+comment4.params=count
+comment4.target=void\ removeNumbers(int)
+comment5.params=
+comment5.target=boolean\ checkSolution()
+comment6.params=row\ col
+comment6.target=int\ getValue(int,\ int)
+comment7.params=row\ col\ value
+comment7.target=void\ setValue(int,\ int,\ int)
+numComments=8
